@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Engineer
 -----------------
 
-I am a self-motivated frontend developer with great work ethic. I have a well rounded understanding of core frontend technologies and frameworks necessary for website construction and maintenance. A wiz at finding solutions, contributing to a collaborative work environment and ultimately ensuring satisfaction.
+I am a self-motivated frontend developer with great work ethic. I have a well rounded understanding of core frontend technologies and frameworks necessary for website construction and maintenance. A wiz at finding solutions, contributing to a collaborative work environment and ultimately ensuring client satisfaction.
 
 * 🌍  I'm based in Nigeria, West Africa
 * ✉️  You can contact me at [akingbulugbe.dev@gmail.com](mailto:akingbulugbe.dev@gmail.com)
