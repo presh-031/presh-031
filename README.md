@@ -8,7 +8,7 @@ I am a self-motivated frontend developer with great work ethic. I have a well ro
 
 * 🌍  I'm based in Nigeria, West Africa
 * ✉️  You can contact me at [akingbulugbe.dev@gmail.com](mailto:akingbulugbe.dev@gmail.com)
-* 🧠  I'm learning React.js and its ecosystem.
+* 🧠  I'm learning Express.js.
 * 🤝  I'm open to collaborating on Interesting projects - open source, volunteering or paid.
 * ⚡  I'm secretly motivated by the fact that the Internet is held together by duct tape and chewing gum.
 
