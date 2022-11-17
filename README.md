@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Engineer
 -----------------
 
-I am a self-motivated frontend developer with great work ethic. I have a well rounded understanding of core frontend technologies and frameworks necessary for website construction and maintenance. A wiz at finding solutions, contributing to a collaborative work environment and ultimately ensuring client satisfaction.
+I am a self-motivated fullstack developer with great work ethic. I have a well rounded understanding of core frontend and backend technologies and frameworks necessary for website construction and maintenance. Iam a wiz at finding solutions, contributing to a collaborative work environment and ultimately ensuring client or employer's satisfaction.
 
 * 🌍  I'm based in Nigeria, West Africa
 * ✉️  You can contact me at [akingbulugbe.dev@gmail.com](mailto:akingbulugbe.dev@gmail.com)
-* 🧠  I'm learning Backend Development in order to become full-stack.
+* 🧠  I'm currently learning more about backend Development and frontend animations.
 * 🤝  I'm open to collaborating on Interesting projects - open source, volunteering or paid.
 * ⚡  I'm secretly motivated by the fact that the Internet is held together by duct tape and chewing gum.
 
