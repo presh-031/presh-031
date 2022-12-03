@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Precious Akingbulugbe
 =============================================================================================================================================
 
-FullStack Developer
+Software Engineer
 -------------------
 
-I am a self-motivated full-stack developer with great work ethic. I have a well rounded understanding of core frontend and backend technologies and frameworks necessary for website construction and maintenance. I am a wiz at finding solutions, contributing to a collaborative work environment and ultimately ensuring client or employer's satisfaction.
+I am a self-motivated frontend developer with great work ethic. I have a well rounded understanding of core frontend technologies and frameworks necessary for website construction and maintenance. I also have a growing knowledge of important backend technologies. I am a wiz at finding solutions, contributing to a collaborative work environment and ultimately ensuring client or employer's satisfaction.
 
 * 🌍  I'm based in Nigeria, West Africa
 * 🖥️  See my portfolio at [Portfolio](http://-)
