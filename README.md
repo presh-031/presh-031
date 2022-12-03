@@ -9,7 +9,7 @@ I am a self-motivated full-stack developer with great work ethic. I have a well 
 * 🌍  I'm based in Nigeria, West Africa
 * 🖥️  See my portfolio at [Portfolio](http://-)
 * ✉️  You can contact me at [akingbulugbe.dev@gmail.com](mailto:akingbulugbe.dev@gmail.com)
-* 🧠  I'm learning more about backend Development and frontend animations.
+* 🧠  I'm currently learning mobile app development with React-Native. 
 * 🤝  I'm open to collaborating on Interesting projects - open source, volunteering or paid.
 * ⚡  I'm secretly motivated by the fact that the Internet is held together by duct tape and chewing gum.
 
