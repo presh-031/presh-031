@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -------------------
 
-As a self-motivated frontend developer with a strong work ethic, I possess a comprehensive understanding of core frontend technologies and frameworks essential for building and maintaining websites. I am also continuously expanding my knowledge of relevant backend technologies. I excel at problem-solving, thrive in collaborative work environments, and prioritize client or employer satisfaction in all my endeavors.
+I am a self-motivated frontend developer with a strong work ethic. I possess a comprehensive understanding of core frontend technologies and frameworks essential for building and maintaining websites. I am also continuously expanding my knowledge of relevant backend technologies. I excel at problem-solving, thrive in collaborative work environments, and prioritize client or employer satisfaction in all my endeavors.
 
 * 🖥️  See my portfolio at [Portfolio](http://presh-031.vercel.app) - Under Maintenance.
 * ✉️  You can contact me at [akingbulugbe.dev@gmail.com](mailto:akingbulugbe.dev@gmail.com)
