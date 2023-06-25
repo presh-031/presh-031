@@ -6,7 +6,7 @@ Software Engineer
 
 I am a self-motivated frontend developer with a strong work ethic. I possess a comprehensive understanding of core frontend technologies and frameworks essential for building and maintaining websites. I am also continuously expanding my knowledge of relevant backend technologies. I excel at problem-solving, thrive in collaborative work environments, and prioritize client or employer satisfaction in all my endeavors.
 
-* 🖥️  See my portfolio at [Portfolio](http://presh-031.vercel.app) - Under Maintenance.
+* 🖥️  See my portfolio at [Portfolio](http://precious-five.vercel.app) - Under Maintenance.
 * ✉️  You can contact me at [akingbulugbe.dev@gmail.com](mailto:akingbulugbe.dev@gmail.com)
 * 🧠  I'm currently learning mobile app development with React-Native. 
 * 🤝  I'm open to collaborating on projects.
