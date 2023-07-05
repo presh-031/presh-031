@@ -11,6 +11,7 @@ I am a self-motivated frontend developer with a strong work ethic. I possess a c
 * 🧠  I'm currently learning mobile app development with React-Native. 
 * 🤝  I'm open to collaborating on projects.
 * ⚡  I'm secretly motivated by the fact that the Internet is held together by duct tape and chewing gum.
+* ⚡️ Fun fact about me : I watch a tech review video with every meal. Usually either mrwhosetheboss or mkbhd.
 
 
 ### Socials
