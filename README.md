@@ -6,7 +6,7 @@ I'm precious, a self-motivated frontend developer with a strong work ethic. I po
 
 * ⚡ I'm secretly motivated by the fact that the Internet is held together by duct tape and chewing gum.
 <br/><a href="-"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="mailto:akingbulugbe.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a><a href="https://www.twitter.com/Presh_031"><img src="https://img.shields.io/twitter/urllabel=Twitter&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FYourTwitterHandle" alt="Twitter Badge"></a>
+<a href="mailto:akingbulugbe.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a><a href="https://www.twitter.com/Presh_031"><img src="https://img.shields.io/twitter/url?label=presh-031&style=social&url=https%3A%2F%2Ftwitter.com%2Fpresh-031" alt="Twitter Badge"></a>
 
 
 # 🔧 Technologies & Tools
