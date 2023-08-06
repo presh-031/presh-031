@@ -1,13 +1,13 @@
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Homemade+Apple&pause=1000&size=40&color=%154659&height=80&duration=3000&lines=Hi!%20%20👋">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Homemade+Apple&pause=1000&size=40&color=%154659&height=80&duration=3000&lines=Hi%20there!%20👋">
 </p>
 
 I'm precious, a self-motivated frontend developer with a strong work ethic. I possess a comprehensive understanding of core frontend technologies and frameworks essential for building and maintaining websites. I am also continuously expanding my knowledge of relevant backend technologies. I excel at problem-solving, thrive in collaborative work environments, and prioritize client & employer satisfaction in all my endeavors.
 
-* ⚡ I'm secretly motivated by the fact that the Internet is held together by duct tape and chewing gum.
+⚡ I'm secretly motivated by the fact that the Internet is held together by duct tape and chewing gum.
 
 
-# 🔧 Technologies & Tools
+## 🔧 Technologies & Tools
 
 <table>
   <tr>
@@ -112,8 +112,8 @@ I'm precious, a self-motivated frontend developer with a strong work ethic. I po
 
 🖥️   [Portfolio](http://precious-five.vercel.app) - Under Maintenance.
 
-✉️  Contact [akingbulugbe.dev@gmail.com](mailto:akingbulugbe.dev@gmail.com)
+✉️  Email: [akingbulugbe.dev@gmail.com](mailto:akingbulugbe.dev@gmail.com)
  
-### 📫 How to reach me
+## 📫 How to reach me
   - [Twitter](https://twitter.com/presh_031)
 
