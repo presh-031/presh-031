@@ -113,5 +113,5 @@ I'm precious, a self-motivated frontend developer with a strong work ethic. I po
 ## 📫 How to reach me
   - [Twitter](https://twitter.com/presh_031)
   - Email: [akingbulugbe.dev@gmail.com](mailto:akingbulugbe.dev@gmail.com)
-  - [Portfolio](http://precious-five.vercel.app) - Under Maintenance.
+  - [Portfolio](https://presh-031.vercel.app/) - Under Maintenance.
 
