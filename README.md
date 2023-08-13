@@ -65,8 +65,6 @@ I'm precious, a self-motivated frontend developer with a strong work ethic. I po
       />
       <br /><strong>Tailwind</strong>
     </td>
-  </tr>
-  <tr>
      <td align="center" height="108" width="108">
       <img
         src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg"
@@ -76,6 +74,8 @@ I'm precious, a self-motivated frontend developer with a strong work ethic. I po
       />
       <br /><strong>Redux</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://vitejs.dev/logo.svg"
@@ -87,7 +87,7 @@ I'm precious, a self-motivated frontend developer with a strong work ethic. I po
     </td>
      <td align="center" height="108" width="108">
       <img
-        src="[https://vitejs.dev/logo.svg](https://avatars.githubusercontent.com/u/20658825?s=200&v=4)"
+        src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4"
         width="48"
         height="48"
         alt="styled"
