@@ -67,6 +67,15 @@ I'm precious, a self-motivated frontend developer with a strong work ethic. I po
     </td>
   </tr>
   <tr>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg"
+        width="48"
+        height="48"
+        alt="Redux"
+      />
+      <br /><strong>Redux</strong>
+    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://vitejs.dev/logo.svg"
