@@ -69,6 +69,24 @@ I'm precious, a self-motivated frontend developer with a strong work ethic. I po
   <tr>
     <td align="center" height="108" width="108">
       <img
+        src="https://vitejs.dev/logo.svg"
+        width="48"
+        height="48"
+        alt="Vite"
+      />
+      <br /><strong>Vite</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+        width="48"
+        height="48"
+        alt="Firebase"
+      />
+      <br /><strong>Firebase</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
         width="48"
         height="48"
@@ -94,15 +112,7 @@ I'm precious, a self-motivated frontend developer with a strong work ethic. I po
       />
       <br /><strong>MongoDB</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
-        width="48"
-        height="48"
-        alt="Firebase"
-      />
-      <br /><strong>Firebase</strong>
-    </td>
+    
   
   </tr>
 </table>
