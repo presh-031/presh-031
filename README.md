@@ -85,6 +85,15 @@ I'm precious, a self-motivated frontend developer with a strong work ethic. I po
       />
       <br /><strong>Vite</strong>
     </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="[https://vitejs.dev/logo.svg](https://avatars.githubusercontent.com/u/20658825?s=200&v=4)"
+        width="48"
+        height="48"
+        alt="styled"
+      />
+      <br/><strong>Styled components</strong>
+    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
