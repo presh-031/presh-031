@@ -78,6 +78,15 @@ I'm precious, a self-motivated frontend developer with a strong work ethic. I po
   <tr>
     <td align="center" height="108" width="108">
       <img
+        src="https://svelte.dev/_app/immutable/assets/svelte-logo.5c5d7d20.svg"
+        width="48"
+        height="48"
+        alt="Svelte"
+      />
+      <br /><strong>Svelte</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://vitejs.dev/logo.svg"
         width="48"
         height="48"
