@@ -139,8 +139,17 @@ I'm precious, a self-motivated frontend developer with a strong work ethic. I po
       />
       <br /><strong>MongoDB</strong>
     </td>
-    
-  
+  </tr>
+    <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/4ba9fc0a-24e4-4794-8a0e-3283dfa1fa68/logobig/w=1920,quality=80"
+        width="48"
+        height="48"
+        alt="Strapi"
+      />
+      <br /><strong>Strapi</strong>
+    </td>
   </tr>
 </table>
 
