@@ -143,7 +143,7 @@ I'm precious, a self-motivated frontend developer with a strong work ethic. I po
     <tr>
     <td align="center" height="108" width="108">
       <img
-        src="https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/4ba9fc0a-24e4-4794-8a0e-3283dfa1fa68/logobig/w=1920,quality=80"
+        src="https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/f154aaf7-96dd-4d9e-8ef6-05259f5a2b31/Strapi-Monogram/w=1920,quality=80"
         width="48"
         height="48"
         alt="Strapi"
